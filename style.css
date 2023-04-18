@@ -1,0 +1,39 @@
+@import url('https://fonts.cdnfonts.com/css/games');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url('img/bg.webp')no-repeat;
+    background-size: cover;
+    font-family: 'Games', sans-serif;
+                                                
+}
+
+section{
+    text-align: center;
+    margin: 200px 0 0 0;
+    color: green;
+}
+
+h1{
+    font-size: 3rem;
+    font-style: 'Games'; 
+    margin-bottom: 20px; 
+    text-shadow: 2px 2px #fff;                                             
+}
+
+a{
+    background-color: green;
+    color: antiquewhite;
+    padding: 10px;
+    margin-top: 20px;
+    text-decoration: none;
+    text-shadow: 1px 1px #ff0000;
+}
+
+a:hover{
+    background-color: lightblue;
+    color: black;
+}
